@@ -1,0 +1,46 @@
+#title{
+  padding: 50px 70px;
+  background-color: #63b7af;
+  color: #fff;
+
+}
+.image{
+  border-radius: 50%;
+}
+
+#about{
+  padding: 50px 70px;
+  background-color: #abf0e9;
+  color: #f37121;
+}
+
+#proexp{
+  padding: 50px 70px;
+  background-color:#d4f3ef;
+  color: #45046a;
+  line-height: 1.5;
+  text-align: center;
+}
+.table{
+  text-align: center;
+}
+#skill{
+  padding: 50px 70px;
+  background-color: #ee8572;
+  color: white;
+  text-align: center;
+
+}
+h3{
+  font-family: 'Pangolin', cursive;
+}
+
+h4{
+font-family: 'Squada One', cursive;
+text-align: center;
+
+}
+
+.body{
+  font-family: 'Titillium Web', sans-serif;
+}
